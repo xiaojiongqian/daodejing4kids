@@ -19,6 +19,21 @@
   evidence: 用户要求生成能够解释文章的故事或内容。
   consequence_if_broken: 章节会变成普通故事集，失去《道德经》对应关系。
 
+- rule: 英文"Original Text"必须使用 James Legge (1891) 译本原文，不得自由改写或混用其他译本。
+  scope: 章节篇（英文部分）
+  evidence: Legge 是权威公共领域全译本（`reference/texts/dao-de-jing-legge-full.md`），每章可直接引用对应段落，确保来源统一、可核查。
+  consequence_if_broken: 不同章英文原文风格不一致，glossary 词条与原文对不上，读者无法跨章对照。
+
+- rule: 英文"Vocabulary Notes"只解释本章 Legge 译文中实际出现的词/短语。
+  scope: 章节篇（英文部分）
+  evidence: Glossary 是为了帮小读者读懂面前这章英文原文；如果定义的词在原文中根本没出现，就失去了辅助阅读的功能。
+  consequence_if_broken: 名词解释与原文脱节，小读者翻回去找不到对应单词，信任感下降。
+
+- rule: 每章完整结构 = 中文全篇（原文 + 释义 + 难词注解 + 正文 + 回扣）+ `---` 分隔 + 英文全篇（Original Text + Interpretation + Vocabulary Notes + Main Text + Return to the Original）。
+  scope: 章节篇
+  evidence: ch001 已按此结构完成并通过审阅，是已验证的可复现格式。
+  consequence_if_broken: 各章格式不统一，编辑排版时需要逐章返工。
+
 ## Soft Constraints
 
 - constraint: 儿童解释优先用具体动作、物件和画面。
