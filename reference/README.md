@@ -26,9 +26,20 @@ reference/
 ├── versions/                            版本学
 │   ├── version-notes.md                 版本与出土文献笔记
 │   └── variant-apparatus.md         ★ 版本异文校记（校改逐条 + 王弼/ctext 逐章机器比对）
-└── themes/                              主题与改编
-    ├── core-concepts.md                 核心概念索引（道、德、无为、自然、柔弱、水…）
-    └── story-seeds.md                   主题 → 儿童故事种子库
+├── themes/                              主题与改编
+│   ├── core-concepts.md                 核心概念索引（道、德、无为、自然、柔弱、水…）
+│   └── story-seeds.md                   主题 → 儿童故事种子库
+└── allusion/                            典故辑录（从《老子他说·道篇》提取，按性质分九类）
+    ├── README.md                        典故分类索引（九类 722 则一览与体例）
+    ├── historical-figures.md            历史人物与史事（266）
+    ├── philosophers-fables.md           诸子寓言（49）
+    ├── confucian.md                     儒家经典（74）
+    ├── daoist-immortals.md              道家神仙与道统（92）
+    ├── buddhist-chan.md                 佛教禅宗（67）
+    ├── poetry-prose.md                  诗词文赋（83）
+    ├── idioms-proverbs.md               成语谚语与民俗神话（70）
+    ├── foreign-cross.md                 中外与西学典故（19）
+    └── other.md                         其他（2）
 ```
 
 ## 已收录
@@ -57,6 +68,10 @@ reference/
 - [核心概念索引](themes/core-concepts.md)：按主题归纳可用材料。
 - [主题→儿童故事种子](themes/story-seeds.md)：把核心主题转化为绘本情节的创作起点。
 - [参考来源与书目](bibliography.md)：电子底本、在线资料库与纸本书目。
+
+### 典故辑录 `allusion/`
+
+- [典故辑录索引](allusion/README.md)：从南怀瑾《老子他说·道篇》系统提取的 **722 则**故事、典故、寓言、公案、名人轶事、成语来历与所引诗词文赋，按性质分九类、每类一文，并标明出处、所关联的《老子》章次与可用于绘本的角度。**只作转述性读书笔记与典故考据，不转录南师受版权保护的原文。**
 
 ## 文本来源与整理方法（去伪存真）
 
