@@ -2,9 +2,9 @@
 
 ## Writing Position
 
-- Current arc: 全球版初始化与第一章三篇可生产稿
-- Current chapter: `ch001`
-- Current scene: 项目框架已建立，第一章已从单篇样章升级为三篇可生产稿。
+- Current arc: 第二章三篇可生产稿（美恶相生 / 真善美 / 有无相生）
+- Current chapter: `ch002`
+- Current scene: 第一、二章均已形成三篇可生产稿；第二章确立“义理总释 → 跨文化对照 → 关系本体论”的分篇模式。
 
 ## Confirmed Facts
 

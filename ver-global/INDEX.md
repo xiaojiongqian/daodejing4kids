@@ -6,8 +6,8 @@
 - Working English Title: *Dao De Jing: An Illustrated Book for the World*
 - Genre: 成人哲理绘本 / 跨文化图文经典 / 诗性图像脚本
 - Premise: 以《道德经》八十一章为骨架，为全球读者整理原文、英译入口、义理解释、跨文化素材、视觉母题和分页绘本脚本。
-- Current arc: 全球版初始化与第一章三篇可生产稿
-- Latest chapter: `chapters/ch001-1.md` to `chapters/ch001-3.md`
+- Current arc: 第二章三篇可生产稿（美恶相生 / 真善美 / 有无相生）
+- Latest chapter: `chapters/ch002-1.md` to `chapters/ch002-3.md`
 
 ## Directory Roles
 
@@ -26,7 +26,7 @@
   - 第一章“道、名、无名、有名、欲、玄”的成人向图像化表达。
   - 英文成稿语气：使用现代、清澈、准确的英文脚本文字，同时保留 Legge 译文作为可核查入口。
   - 跨文化素材使用边界：只作桥梁，不用外来概念覆盖《道德经》本身。
-- Immediate obligation: 审阅第一章三篇可生产稿，决定是否沿用“地图 / 帛书 / 轮匠”的三段式框架。
+- Immediate obligation: 审阅第二章三篇可生产稿，确认“义理总释 / 跨文化对照 / 关系本体论”是否作为后续章节通用的三段式框架。
 
 ## Recommended Read Order
 
@@ -40,4 +40,4 @@
 
 ## Suggested Next Task
 
-- 审阅第 1 章三篇的文字气质、哲学深度、考据密度和绘本生成可用性；通过后可按同一模式继续第 2 章。
+- 审阅第 2 章三篇的文字气质、哲学深度、考据密度和绘本生成可用性；通过后可按同一模式继续第 3 章。
